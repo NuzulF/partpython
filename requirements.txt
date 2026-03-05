@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+scikit-learn
+gensim
+umap-learn
+geopy
+Sastrawi
+python-Levenshtein
+nltk
